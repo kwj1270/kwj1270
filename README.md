@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 [![kwj1270's github stats](https://github-readme-stats.vercel.app/api?username=kwj1270&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwj1270)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
