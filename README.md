@@ -3,7 +3,7 @@
 안녕하세요 **BackEnd 개발**에 관심을 갖고 있는 🌱 새싹 개발자 입니다.                                 
 다양한 프레임워크를 활용하기 보다는, **언어 자체의 본질에 대해서 그 의미를 찾고자하며**                  
 **JAVA**를 기반으로 **OOP, TDD, CleanCode**라는 주제에 대해서 공부를 하고 있습니다.                           
-이후 공부 방향으로는 **Kotlin**과 **DDD**, **MSA**에 대해서 공부를 하고자 계획하고 있습니다.               
+이후 공부 방향으로는 **Kotlin**과 **DDD**, **MSA(Netty/SpringWebFlux/SpringNative)**에 대해서 공부를 하고자 계획하고 있습니다.               
    
 **activity**
 <details>
