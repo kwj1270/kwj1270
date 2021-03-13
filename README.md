@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary👨‍💻 2021</summary>
+<summary>👨‍💻 2021</summary>
 <div markdown="1">
             <ul>
                         <li><a href="https://github.com/kwj1270/TIL_JAVA">백기선, 스터디 할래(자바 심화)</a></li>  
