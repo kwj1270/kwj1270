@@ -9,19 +9,18 @@
 <details>
 <summary>2019</summary>
 <div markdown="1"> 
-            <a href="http://www.yes24.com/Product/Goods/4333686">윤성우의 열혈 C 프로그래밍</a><br>
-            <a href="http://www.yes24.com/Product/Goods/43755519">윤성우의 열혈 JAVA 프로그래밍</a><br>
-            <a href="http://www.yes24.com/Product/Goods/24259565">JAVA의 정석 3판</a><br>
-            <a href="http://www.yes24.com/Product/Goods/6214396">윤성우의 열혈 자료구조</a><br>
-            <a href="http://www.yes24.com/Product/Goods/96674934">Do it! HTML+CSS+자바스크립트 웹 표준의 정석</a><br>
-            <a href="http://www.yes24.com/Product/Goods/6214396">윤성우의 열혈 자료구조</a><br>
-            <a href="http://www.yes24.com/Product/Goods/42806896?OzSrank=11">Learning JavaScript</a><br>       
-            <a href="https://github.com/kwj1270/TIL-2019_SummerVacation/tree/master/DataBase/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C">SQL 첫걸음</a><br>       
-            <a href="https://github.com/kwj1270/TIL-2019_SummerVacation/tree/master/DataBase/%EC%9D%B4%EA%B2%83%EC%9D%B4MySQL%EC%9D%B4%EB%8B%A4">이것이 MySQL이다.</a><br>    
-            <a href="https://github.com/kwj1270/TIL-JSP">최범균님의 JSP 2.3</a><br>    
-            <a href="https://github.com/kwj1270/TIL-dongbin.na-JSP">나동빈님의 JSP 게시판 만들기</a><br>          
-            <a href="https://github.com/kwj1270/TIL_SPRING_QUICK_START">최규태님의 스프링 퀵 스타트</a><br>          
-
+            <ul>
+                <li><a href="http://www.yes24.com/Product/Goods/4333686">윤성우의 열혈 C 프로그래밍</a></li>
+                <li><a href="http://www.yes24.com/Product/Goods/43755519">윤성우의 열혈 JAVA 프로그래밍</a></li>
+                <li><a href="http://www.yes24.com/Product/Goods/24259565">JAVA의 정석 3판</a></li>
+                <li><a href="http://www.yes24.com/Product/Goods/6214396">윤성우의 열혈 자료구조</a></li>
+                <li><a href="http://www.yes24.com/Product/Goods/96674934">Do it! HTML+CSS+자바스크립트 웹 표준의 정석</a></li>
+                <li><a href="http://www.yes24.com/Product/Goods/42806896?OzSrank=11">Learning JavaScript</a></li>
+                <li><a href="https://github.com/kwj1270/TIL-2019_SummerVacation/tree/master/DataBase/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C">SQL 첫걸음</a></li>
+                <li><a href="https://github.com/kwj1270/TIL-2019_SummerVacation/tree/master/DataBase/%EC%9D%B4%EA%B2%83%EC%9D%B4MySQL%EC%9D%B4%EB%8B%A4">이것이 MySQL이다.</a></li>
+                <li><a href="https://github.com/kwj1270/TIL-JSP">최범균님의 JSP 2.3</a></li>
+                <li><a href="https://github.com/kwj1270/TIL-dongbin.na-JSP">나동빈님의 JSP 게시판 만들기</a></li>
+            </ul>
 </div>
 </details>
 
@@ -29,7 +28,7 @@
 <summary>2020</summary>
 <div markdown="1">
 * [윤성우님의 열혈 C++](https://github.com/kwj1270/TIL_C_plusepluse)  
-* 
+* <a href="https://github.com/kwj1270/TIL_SPRING_QUICK_START">최규태님의 스프링 퀵 스타트</a>
 </div>
 </details>
 
