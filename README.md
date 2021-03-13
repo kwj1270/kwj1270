@@ -1,4 +1,10 @@
 ### Hi there 👋
+   
+안녕하세요 `백엔드 개발`에 관심을 갖고 있는 개발자 입니다.                
+현재는 `JAVA`를 기반으로 `OOP`/`TDD`/`CleanCode` 주제에 대해서 공부를 하고 있으며         
+다양한 프레임워크를 활용하기 보다는, 언어 자체 본질에 대해서 그 의미를 찾고자합니다.             
+
+
 
 <!--
 **kwj1270/kwj1270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
