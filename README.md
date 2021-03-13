@@ -4,13 +4,20 @@
 다양한 프레임워크를 활용하기 보다는, **언어 자체 본질에 대해서 그 의미를 찾고자 생각하며**              
 **JAVA**를 기반으로 **OOP, TDD, CleanCode**라는 주제에 대해서 공부를 하고 있습니다.                        
 이후 공부 방향으로는 **Kotlin**과 **DDD**, **MSA**에 대해서 공부를 하고자 계획하고 있습니다.          
-      
-현재는 Samsung SoftWare Academy 5th에 소속되어 있으며     
 
-2020년 1월부터 `SSAFY 5th`에 
+**activity**
+* 2019
+* 2020
+* 2021
+    
+**Doing** 
+* Study - Clean Code / Effective Java
+* Acitiviy - Samsung Soft Ware Academy 5th in GwangJu
+* Acitiviy - Next Step - TDD, Clean Code with Java 11기
 
 
-activity
+
+
 
 
 <!--
