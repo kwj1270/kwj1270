@@ -11,7 +11,7 @@
 
 ### 💻 Activity 
 <details>
-<summary>2019</summary>
+<summary>🚩 2019</summary>
 <div markdown="1"> 
             <ul>
                 <li><a href="http://www.yes24.com/Product/Goods/4333686">열혈 C 프로그래밍</a></li>
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-<summary>2020</summary>
+<summary>🚩 2020</summary>
 <div markdown="1">
             <ul>
                         <li><a href="https://github.com/kwj1270/TIL_C_plusepluse">알고리즘 테스트를 위한, 열혈 C++</a></li>
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary>2021</summary>
+<summary>🚩 2021</summary>
 <div markdown="1">
             <ul>
                         <li><a href="https://github.com/kwj1270/TIL_JAVA">백기선, 스터디 할래(자바 심화)</a></li>  
