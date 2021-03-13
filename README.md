@@ -1,6 +1,6 @@
 
-### 👋 Hi there 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
+### 👋 Hi there [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
+
 
 안녕하세요 **BackEnd 개발**에 관심을 갖고 있는 🌱 새싹 개발자 입니다.                                 
 다양한 프레임워크를 활용하기 보다는, **언어의 본질 자체에 대해서 그 의미를 찾고자하며**                  
