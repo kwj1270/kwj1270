@@ -7,20 +7,28 @@
    
 **activity**
 <details>
-<summary>접기/펼치기 버튼</summary>
+<summary>2019</summary>
 <div markdown="1">
-
-|제목|내용|
-|--|--|
-|1|1|
-|2|10|
 
 </div>
 </details>
 
-* 2019
-* 2020
-* 2021
+
+<details>
+<summary>2020</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+<details>
+<summary>2021</summary>
+<div markdown="1">
+
+</div>
+</details>
+
     
 **Doing** 
 * Study - Clean Code / Effective Java
