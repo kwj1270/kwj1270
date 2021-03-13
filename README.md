@@ -8,10 +8,11 @@
 이후 공부 방향으로는 **Kotlin**과 **DDD**, **MSA(Netty/SpringWebFlux/SpringNative)** 를 공부하고자 계획하고 있습니다.               
 선호하는 분야로는 Fintech를 바라보고 있으며, **Line Fintech에 가는 것이 최우선 목표입니다.**  
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
 [✏ Blog](https://velog.io/@kwj1270)    
 [📝 Resume](https://www.notion.so/3012c18b10c74ed59249bfb27156da0f)   
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 ### 💻 Activity 
 <details>
