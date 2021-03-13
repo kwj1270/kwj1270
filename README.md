@@ -43,7 +43,7 @@
                         <li><a href="https://github.com/kwj1270/TIL_SPRING_QUICK_START">스프링 퀵 스타트</a></li>
                         <li><a href="https://github.com/kwj1270/TIL_FIRST_SPRINGBOOT2">처음 배우는 스프링 부트2</a></li>
                         <li><a href="https://github.com/kwj1270/TIL_SPRINGBOOT_WITH_AWS">스프링 부트와 AWS로 혼자 구현하는 웹 서비스</a></li>
-                        <li><a href="https://github.com/kwj1270/TIL_SPRINGBOOT_WITH_AWS">전주대 스마트미디어학과 스프링 특별 강의(강의자)</a></li>
+                        <li><a href="https://github.com/kwj1270/Special_Lecture">전주대 스마트미디어학과 스프링 특별 강의(강의자)</a></li>
 
             </ul>
 
