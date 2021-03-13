@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)     
 
 ### 👋 Hi there 
             
@@ -7,6 +6,7 @@
 **☕ JAVA**를 기반으로 **OOP, TDD, CleanCode**라는 주제에 대해서 공부를 하고 있습니다.                           
 이후 공부 방향으로는 **Kotlin**과 **DDD**, **MSA(Netty/SpringWebFlux/SpringNative)** 를 공부하고자 계획하고 있습니다.               
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)     
 
 
 ### 💻 Activity 
