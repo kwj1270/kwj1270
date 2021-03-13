@@ -6,7 +6,7 @@
 **☕ JAVA**를 기반으로 **OOP, TDD, CleanCode**라는 주제에 대해서 공부를 하고 있습니다.                           
 이후 공부 방향으로는 **Kotlin**과 **DDD**, **MSA(Netty/SpringWebFlux/SpringNative)** 를 공부하고자 계획하고 있습니다.               
 
-- 🔭 I’m currently working on SamsungSoftWareAcademy 5th 
+- 🔭 I’m currently working on SamsungSoftwareAcademy 5th 
 - 🌱 I’m currently learning java and spring boot
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with oop/tdd
