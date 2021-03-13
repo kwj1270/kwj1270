@@ -45,15 +45,14 @@
                         <li><a href="https://github.com/kwj1270/TIL_SPRINGBOOT_WITH_AWS">스프링 부트와 AWS로 혼자 구현하는 웹 서비스</a></li>
                         <li><a href="https://github.com/kwj1270/Special_Lecture">전주대 스마트미디어학과 스프링 특별 강의(강의자)</a></li>
             </ul>
-
 </div>
 </details>
-
-
+                        <li><a href="https://github.com/kwj1270/TIL_JAVA">백기선, 스터디 할래(자바 심화)</a></li>  
+                        <li><a href="https://github.com/kwj1270/TIL_CleanCode">Clean Code</a></li>      
 <details>
 <summary>2021</summary>
 <div markdown="1">
-
+            
 </div>
 </details>
 
