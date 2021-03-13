@@ -1,6 +1,6 @@
 ### Hi there 👋
             
-안녕하세요 **BackEnd 개발**에 관심을 갖고 있는 개발자 입니다.                                 
+안녕하세요 **BackEnd 개발**에 관심을 갖고 있는 새싹 개발자 입니다. 🌱                                
 다양한 프레임워크를 활용하기 보다는, **언어 자체 본질에 대해서 그 의미를 찾고자 생각하며**                  
 **JAVA**를 기반으로 **OOP, TDD, CleanCode**라는 주제에 대해서 공부를 하고 있습니다.                           
 이후 공부 방향으로는 **Kotlin**과 **DDD**, **MSA**에 대해서 공부를 하고자 계획하고 있습니다.               
@@ -9,10 +9,11 @@
 <details>
 <summary>2019</summary>
 <div markdown="1"> 
-            <a href="https://github.com/kwj1270/TIL-dongbin.na-JSP">나동빈님의 JSP 게시판 만들기</a>       
-            <a href="https://github.com/kwj1270/TIL-2019_SummerVacation/tree/master/DataBase/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C">SQL 첫걸음</a>       
-            <a href="https://github.com/kwj1270/TIL-2019_SummerVacation/tree/master/DataBase/%EC%9D%B4%EA%B2%83%EC%9D%B4MySQL%EC%9D%B4%EB%8B%A4">이것이 MySQL이다.</a>       
-            <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B2328850940">Learning JavaScript</a>       
+            <a href="http://www.yes24.com/Product/Goods/43755519">윤성우의 열혈</a><br>          
+            <a href="https://github.com/kwj1270/TIL-dongbin.na-JSP">나동빈님의 JSP 게시판 만들기</a><br>          
+            <a href="https://github.com/kwj1270/TIL-2019_SummerVacation/tree/master/DataBase/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C">SQL 첫걸음</a><br>       
+            <a href="https://github.com/kwj1270/TIL-2019_SummerVacation/tree/master/DataBase/%EC%9D%B4%EA%B2%83%EC%9D%B4MySQL%EC%9D%B4%EB%8B%A4">이것이 MySQL이다.</a><br>       
+            <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B2328850940">Learning JavaScript</a><br>       
 
 </div>
 </details>
