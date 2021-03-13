@@ -7,8 +7,9 @@
 **☕ JAVA**를 기반으로 **OOP, TDD, CleanCode**라는 주제에 대해서 공부를 하고 있습니다.                           
 이후 공부 방향으로는 **Kotlin**과 **DDD**, **MSA(Netty/SpringWebFlux/SpringNative)** 를 공부하고자 계획하고 있습니다.               
 
- 
 
+[✏Blog](https://velog.io/@kwj1270)    
+[📝Resume](https://www.notion.so/3012c18b10c74ed59249bfb27156da0f)  
 
 ### 💻 Activity 
 <details>
