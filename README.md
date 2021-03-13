@@ -63,11 +63,10 @@
 * Acitiviy - Samsung Soft Ware Academy 5th in GwangJu   
 * Acitiviy - [Next Step - TDD, Clean Code with Java 11기](https://github.com/next-step/java-racingcar/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed)   
 * study - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)     
-
-
-
-
-
+* study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
+* study - [SSAFY-Algorithm-study](https://github.com/SSAFY5thGwangJu4C/Algorithm_AlgoGaZa)     
+* study - [SSAFY-CS-study](https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC)     
+* book - [Effective Java](https://github.com/kwj1270/TIL_EFFECTIVE_JAVA)     
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)     
