@@ -16,6 +16,16 @@
 
 ### 💻 Activity 
 <details>
+<summary>🎤 Interview</summary>
+<div markdown="1"> 
+            <ul>
+                <li><a href="http://www.ksport.co.kr/news/view.asp?idx=1100&msection=3&ssection=12&page=6">군포중 김우재, 공부도 축구도 잘할거에요!</a></li>
+                <li><a href="https://blog.naver.com/discoveryj/221653909348">엘리트 축구 선수의 길을 걷던 중 부상을 만나 다른 길을 택하기까지! 수퍼스타 김우재를 만나다</a></li>
+            </ul>
+</div>
+</details>
+
+<details>
 <summary>👨‍💻 2019</summary>
 <div markdown="1"> 
             <ul>
