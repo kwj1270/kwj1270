@@ -66,13 +66,13 @@
 </details>
 
 ### 🏃‍♂️ Doing 
-* Acitiviy - Samsung Soft Ware Academy 5th in GwangJu   
-* Acitiviy - [Next Step - TDD, Clean Code with Java 11기](https://github.com/next-step/java-racingcar/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed)   
+* Acitivity - Samsung Soft Ware Academy 5th in GwangJu   
+* Acitivity - [Next Step - TDD, Clean Code with Java 11기](https://github.com/next-step/java-racingcar/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed)   
 * study - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)     
 * study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
 * study - [SSAFY-Algorithm-study](https://github.com/SSAFY5thGwangJu4C/Algorithm_AlgoGaZa)     
 * study - [SSAFY-CS-study](https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC)     
-* book - [Effective Java](https://github.com/kwj1270/TIL_EFFECTIVE_JAVA)     
+* readig - [Effective Java](https://github.com/kwj1270/TIL_EFFECTIVE_JAVA)     
 
  
 ### Algorithm
