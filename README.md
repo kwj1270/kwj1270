@@ -69,7 +69,7 @@
 
 ### 🏃‍♂️ Doing 
 * Acitivity - Samsung SoftWare Academy 5th in GwangJu   
-* Acitivity - [Next Step - TDD, Clean Code with Java 11기](https://github.com/next-step/java-racingcar/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed)   
+* Acitivity - [Next Step - TDD, Clean Code with Java 11기](https://github.com/next-step/java-lotto/pulls?q=is%3Apr+is%3Aclosed+author%3Akwj1270)   
 * study - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)     
 * study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
 * study - [SSAFY-Algorithm-study](https://github.com/SSAFY5thGwangJu4C/Algorithm_AlgoGaZa)     
