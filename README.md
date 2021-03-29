@@ -74,7 +74,6 @@
 * study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
 * study - [SSAFY-Algorithm-study](https://github.com/SSAFY5thGwangJu4C/Algorithm_AlgoGaZa)     
 * study - [SSAFY-CS-study](https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC)        
-* tech - [Effective Java](https://github.com/kwj1270/TIL_EFFECTIVE_JAVA)       
 * tech - [The Essence of Object-Orientation](https://github.com/kwj1270/TIL_OOP)           
 * tech - [Spring Guide](https://github.com/spring-reference-trainning)           
 * tech - [Spring core - basic](https://github.com/springframework-sprout/SPRING_CORE_BASIC)           
