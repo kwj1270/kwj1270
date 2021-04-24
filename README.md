@@ -76,7 +76,7 @@
 * study - [SSAFY-CS-study](https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC)        
 * tech - [The Essence of Object-Orientation](https://github.com/kwj1270/TIL_OOP)           
 * tech - [Spring Guide](https://github.com/spring-reference-trainning)           
-* tech - [Spring core - basic](https://github.com/springframework-sprout/SPRING_CORE_BASIC)           
+* tech - [JPA - basic](https://github.com/springframework-sprout/JPA-Programming)           
 
  
 ### Algorithm
