@@ -52,7 +52,8 @@
                         <li><a href="https://github.com/kwj1270/TIL_CleanCode">Clean Code</a></li>      
                         <li><a href="https://github.com/kwj1270/TIL_JAVA">백기선, 스터디 할래(자바 심화)</a></li>  
                         <li><a href="https://github.com/springframework-sprout/THE_JAVA_TEST">백기선, 더 자바 - 애플리케이션을 테스트하는 다양한 방법</a></li>  
-                        <li><a href="https://github.com/springframework-sprout/SPRING_INTRODUCTION">백기선, 김영한님의 스프링 입문 강의 3개</a></li>  
+                        <li><a href="https://github.com/springframework-sprout/SPRING_INTRODUCTION">백기선 및 김영한, 스프링 입문 강의 3개</a></li>  
+                        <li><a href="https://www.inflearn.com/certificate/161066-325969-2073109">김영한, 스프링 핵심 원리 - 기본편</a></li>  
             </ul>            
 </div>
 </details>
