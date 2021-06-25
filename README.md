@@ -65,6 +65,7 @@
             <ul>
                 <li><a href="http://www.ksport.co.kr/news/view.asp?idx=1100&msection=3&ssection=12&page=6">군포중 김우재, 공부도 축구도 잘할거에요!</a></li>
                 <li><a href="https://blog.naver.com/discoveryj/221653909348">엘리트 축구 선수의 길을 걷던 중 부상을 만나 다른 길을 택하기까지! 수퍼스타 김우재를 만나다</a></li>
+                <li><a href="https://github.com/springframework-sprout/JPA-Programming">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>           
             </ul>
 </div>
 </details>
@@ -76,7 +77,6 @@
 * study - [SSAFY-Algorithm-study](https://github.com/SSAFY5thGwangJu4C/Algorithm_AlgoGaZa)     
 * tech - [The Essence of Object-Orientation](https://github.com/kwj1270/TIL_OOP)           
 * tech - [Spring Guide](https://github.com/spring-reference-trainning)           
-* tech - [JPA - basic](https://github.com/springframework-sprout/JPA-Programming)           
 
  
 ### Algorithm
