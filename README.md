@@ -74,7 +74,6 @@
 * Acitivity - Samsung SoftWare Academy 5th in GwangJu   
 * study - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)     
 * study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
-* study - [SSAFY-Algorithm-study](https://github.com/SSAFY5thGwangJu4C/Algorithm_AlgoGaZa)     
 * tech - [The Essence of Object-Orientation](https://github.com/kwj1270/TIL_OOP)           
 * tech - [Spring Guide](https://github.com/spring-reference-trainning)           
 
