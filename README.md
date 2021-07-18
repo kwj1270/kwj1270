@@ -75,7 +75,9 @@
 * Acitivity - Samsung SoftWare Academy 5th in GwangJu   
 * study - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)     
 * study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
-* study - [DDD-Start](https://github.com/springframework-sprout/DDD-START)     
+* study - [DDD-Start](https://github.com/springframework-sprout/ddd-start)     
+* study - [Effective-java](https://github.com/springframework-sprout/effective-java)     
+* study - [백기선, 스프링 핵심 원리](https://github.com/springframework-sprout/spring-core-technology)     
 * tech - [The Essence of Object-Orientation](https://github.com/kwj1270/TIL_OOP)           
 * tech - [Spring Guide](https://github.com/spring-reference-trainning)           
 
