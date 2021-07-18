@@ -53,7 +53,9 @@
                         <li><a href="https://github.com/springframework-sprout/THE_JAVA_TEST">백기선, 더 자바 - 애플리케이션을 테스트하는 다양한 방법</a></li>  
                         <li><a href="https://github.com/springframework-sprout/SPRING_INTRODUCTION">백기선 및 김영한, 스프링 입문 강의 3개</a></li>  
                         <li><a href="https://www.inflearn.com/certificate/161066-325969-2073109">김영한, 스프링 핵심 원리 - 기본편</a></li>  
-                        <li><a href="https://github.com/next-step/java-bowling/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed">Next Step - TDD, Clean Code with Java 11기</a></li>                         <li><a href="https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC">SSAFY CS 스터디</a></li>     
+                        <li><a href="https://github.com/next-step/java-bowling/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed">Next Step - TDD, Clean Code with Java 11기</a></li> 
+                        <li><a href="https://edu.nextstep.camp/s/OlNAJpr3">Next Step - 인프라 공방 2기</a></li>
+                        <li><a href="https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC">SSAFY CS 스터디</a></li>     
                         <li><a href="https://github.com/springframework-sprout/JPA-Programming">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>           
             </ul>            
 </div>
