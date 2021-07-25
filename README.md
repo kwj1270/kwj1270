@@ -56,7 +56,9 @@
                         <li><a href="https://github.com/next-step/java-bowling/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed">Next Step - TDD, Clean Code with Java 11기</a></li> 
                         <li><a href="https://edu.nextstep.camp/s/OlNAJpr3">Next Step - 인프라 공방 2기</a></li>
                         <li><a href="https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC">SSAFY CS 스터디</a></li>     
-                        <li><a href="https://github.com/springframework-sprout/JPA-Programming">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>           
+                        <li><a href="https://github.com/ssafy-5th-gwangju/tdd-racingcar-java">SSAFY TDD 스터디</a></li>     
+                        <li><a href="https://github.com/springframework-sprout/JPA-Programming">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>  
+                        <li><a href="https://github.com/springframework-sprout/spring-core-technology">백기선, 스프링 핵심 원리</a></li> 
             </ul>            
 </div>
 </details>
@@ -77,7 +79,7 @@
 * study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
 * study - [DDD-Start](https://github.com/springframework-sprout/ddd-start)     
 * study - [Effective-java](https://github.com/springframework-sprout/effective-java)     
-* study - [백기선, 스프링 핵심 원리](https://github.com/springframework-sprout/spring-core-technology)     
+* study - [black-coffe-git](https://github.com/next-step/git-recipe)       
 * tech - [The Essence of Object-Orientation](https://github.com/kwj1270/TIL_OOP)           
 * tech - [Spring Guide](https://github.com/spring-reference-trainning)           
 
