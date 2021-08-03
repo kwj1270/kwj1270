@@ -81,6 +81,7 @@
 * study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
 * study - [DDD-Start](https://github.com/springframework-sprout/ddd-start)     
 * study - [Effective-java](https://github.com/springframework-sprout/effective-java)     
+* study - [QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84/dashboard)     
 * tech - [The Essence of Object-Orientation](https://github.com/kwj1270/TIL_OOP)           
 * tech - [Spring Guide](https://github.com/spring-reference-trainning)           
 
