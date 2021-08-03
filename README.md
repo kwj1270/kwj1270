@@ -52,13 +52,15 @@
                         <li><a href="https://github.com/kwj1270/TIL_JAVA">백기선, 스터디 할래(자바 심화)</a></li>  
                         <li><a href="https://github.com/springframework-sprout/THE_JAVA_TEST">백기선, 더 자바 - 애플리케이션을 테스트하는 다양한 방법</a></li>  
                         <li><a href="https://github.com/springframework-sprout/SPRING_INTRODUCTION">백기선 및 김영한, 스프링 입문 강의 3개</a></li>  
+                        <li><a href="https://github.com/springframework-sprout/spring-core-technology">백기선, 스프링 핵심 원리</a></li> 
                         <li><a href="https://www.inflearn.com/certificate/161066-325969-2073109">김영한, 스프링 핵심 원리 - 기본편</a></li>  
+                        <li><a href="https://github.com/springframework-sprout/JPA-Programming">김영한, 자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>  
+                        <li><a href="https://github.com/springframework-sprout/spring-mvc-1">김영한, 스프링 MVC 1편</a></li>  
                         <li><a href="https://github.com/next-step/java-bowling/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed">Next Step - TDD, Clean Code with Java 11기</a></li> 
                         <li><a href="https://edu.nextstep.camp/s/OlNAJpr3">Next Step - 인프라 공방 2기</a></li>
+                        <li><a href="https://github.com/next-step/git-recipe">Next Step - 블랙커피 Level ZERO git 사용법 배우기</a></li>             
                         <li><a href="https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC">SSAFY CS 스터디</a></li>     
                         <li><a href="https://github.com/ssafy-5th-gwangju/tdd-racingcar-java">SSAFY TDD 스터디</a></li>     
-                        <li><a href="https://github.com/springframework-sprout/JPA-Programming">자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>  
-                        <li><a href="https://github.com/springframework-sprout/spring-core-technology">백기선, 스프링 핵심 원리</a></li> 
             </ul>            
 </div>
 </details>
@@ -79,7 +81,6 @@
 * study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
 * study - [DDD-Start](https://github.com/springframework-sprout/ddd-start)     
 * study - [Effective-java](https://github.com/springframework-sprout/effective-java)     
-* study - [black-coffe-git](https://github.com/next-step/git-recipe)       
 * tech - [The Essence of Object-Orientation](https://github.com/kwj1270/TIL_OOP)           
 * tech - [Spring Guide](https://github.com/spring-reference-trainning)           
 
