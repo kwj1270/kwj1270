@@ -85,11 +85,3 @@
 * study - [QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84/dashboard)     
 * tech - [The Essence of Object-Orientation](https://github.com/kwj1270/TIL_OOP)           
 * tech - [Spring Guide](https://github.com/spring-reference-trainning)           
-
-### Algorithm
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwj1270)](https://solved.ac/kwj1270)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kwj1270)](https://solved.ac/kwj1270)
-
-### github status
-[![kwj1270's github stats](https://github-readme-stats.vercel.app/api?username=kwj1270&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
