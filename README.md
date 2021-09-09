@@ -7,7 +7,7 @@
 **☕ JAVA**를 기반으로 **OOP, TDD, DDD, CleanCode**라는 주제에 대해서 공부를 하고 있습니다.              
  
 [✏ Blog(고치는중 🛠)](https://kwj1270.oopy.io/)    
-[📝 Resume(거의 완성 🛠)](https://www.notion.so/BACK-END-DEVELOPER-cec19eb3e3394e8182560f43a061df67)   
+[📝 Resume](https://www.notion.so/BACK-END-DEVELOPER-cec19eb3e3394e8182560f43a061df67)   
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
