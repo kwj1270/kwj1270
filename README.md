@@ -78,8 +78,9 @@
 
 ### 🏃‍♂️ Doing 
 * Acitivity - Samsung SoftWare Academy 5th in GwangJu   
-* study - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)     
-* study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
-* study - [Kotlin](https://github.com/springframework-sprout/kotlin-in-action)     
-* study - [Kafka](https://github.com/springframework-sprout/kafka)     
-* study - [QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84/dashboard)     
+* group - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)     
+* group - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
+* study - [📝 Kotlin](https://github.com/springframework-sprout/kotlin-in-action)     
+* study - [📝 Kafka](https://github.com/springframework-sprout/kafka)     
+* study - [📝 QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84/dashboard)     
+* study - [📝 CS](https://github.com/Ung-ae-Baby-Developers/BabyCS)     
