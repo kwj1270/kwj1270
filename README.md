@@ -62,7 +62,6 @@
                         <li><a href="https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC">SSAFY CS 스터디</a></li>     
                         <li><a href="https://github.com/ssafy-5th-gwangju/tdd-racingcar-java">SSAFY TDD 스터디</a></li>
                         <li><a href="https://github.com/springframework-sprout/ddd-start">DDD-Start</a></li>
-
             </ul>            
 </div>
 </details>
