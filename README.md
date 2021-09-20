@@ -60,7 +60,9 @@
                         <li><a href="https://edu.nextstep.camp/s/OlNAJpr3">Next Step - 인프라 공방 2기</a></li>
                         <li><a href="https://github.com/next-step/git-recipe">Next Step - 블랙커피 Level ZERO git 사용법 배우기</a></li>             
                         <li><a href="https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC">SSAFY CS 스터디</a></li>     
-                        <li><a href="https://github.com/ssafy-5th-gwangju/tdd-racingcar-java">SSAFY TDD 스터디</a></li>     
+                        <li><a href="https://github.com/ssafy-5th-gwangju/tdd-racingcar-java">SSAFY TDD 스터디</a></li>
+                        <li><a href="https://github.com/springframework-sprout/ddd-start">DDD-Start</a></li>
+
             </ul>            
 </div>
 </details>
@@ -79,7 +81,6 @@
 * Acitivity - Samsung SoftWare Academy 5th in GwangJu   
 * study - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)     
 * study - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
-* study - [DDD-Start](https://github.com/springframework-sprout/ddd-start)     
 * study - [Effective-java](https://github.com/springframework-sprout/effective-java)     
 * study - [QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84/dashboard)     
 * tech - [The Essence of Object-Orientation](https://github.com/kwj1270/TIL_OOP)           
