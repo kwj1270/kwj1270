@@ -6,7 +6,7 @@
 다양한 프레임워크를 활용하기 보다는, **언어의 본질 그 자체에 대해서 의미를 찾고자하며**                    
 **☕ JAVA**를 기반으로 **OOP, TDD, DDD, CleanCode**라는 주제에 대해서 공부를 하고 있습니다.              
  
-[✏ Blog(고치는중 🛠)](https://kwj1270.oopy.io/)    
+[✏ Blog(이전하는중 🛠)](https://kwj1270.oopy.io/)    
 [📝 Resume](https://kwj1270.oopy.io/cec19eb3-e339-4e81-8256-0f43a061df67)   
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
