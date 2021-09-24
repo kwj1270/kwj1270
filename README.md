@@ -56,6 +56,7 @@
                         <li><a href="https://www.inflearn.com/certificate/161066-325969-2073109">김영한, 스프링 핵심 원리 - 기본편</a></li>  
                         <li><a href="https://github.com/springframework-sprout/JPA-Programming">김영한, 자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>  
                         <li><a href="https://github.com/springframework-sprout/spring-mvc-1">김영한, 스프링 MVC 1편</a></li>  
+                        <li><a href="https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84/dashboard">QueryDSL</a></li>  
                         <li><a href="https://github.com/next-step/java-bowling/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed">Next Step - TDD, Clean Code with Java 11기</a></li> 
                         <li><a href="https://edu.nextstep.camp/s/OlNAJpr3">Next Step - 인프라 공방 2기</a></li>
                         <li><a href="https://github.com/next-step/git-recipe">Next Step - 블랙커피 Level ZERO git 사용법 배우기</a></li>             
@@ -82,5 +83,4 @@
 * group - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
 * study - [📝 Kotlin](https://github.com/springframework-sprout/kotlin-in-action)     
 * study - [📝 Kafka](https://github.com/springframework-sprout/kafka)     
-* study - [📝 QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84/dashboard)     
 * study - [📝 CS](https://github.com/Ung-ae-Baby-Developers/BabyCS)     
