@@ -4,7 +4,7 @@
 
 안녕하세요 **BackEnd 개발**에 관심을 갖고 있는 🌱 새싹 개발자 입니다.                                  
 다양한 프레임워크를 활용하기 보다는, **언어의 본질 그 자체에 대해서 의미를 찾고자하며**                    
-**☕ JAVA**를 기반으로 **OOP, TDD, DDD, CleanCode**라는 주제에 대해서 공부를 하고 있습니다.              
+**☕ JAVA 및 Kotlin**을 기반으로 **OOP, TDD, DDD, CleanCode**라는 주제에 대해서 공부를 하고 있습니다.              
  
 [✏ Blog(이전하는중 🛠)](https://kwj1270.oopy.io/)    
 [📝 Resume](https://kwj1270.oopy.io/cec19eb3-e339-4e81-8256-0f43a061df67)   
