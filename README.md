@@ -84,3 +84,5 @@
 * study - [📝 Kotlin](https://github.com/springframework-sprout/kotlin-in-action)     
 * study - [📝 Kafka](https://github.com/springframework-sprout/kafka)     
 * study - [📝 CS](https://github.com/Ung-ae-Baby-Developers/BabyCS)     
+
+![](https://github-profile-trophy.vercel.app/?username=kwj1270&theme=flat&no-frame=true&margin-w=30)
