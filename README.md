@@ -52,16 +52,19 @@
                         <li><a href="https://github.com/springframework-sprout/THE_JAVA_TEST">백기선, 더 자바 - 애플리케이션을 테스트하는 다양한 방법</a></li>  
                         <li><a href="https://github.com/springframework-sprout/SPRING_INTRODUCTION">백기선 및 김영한, 스프링 입문 강의 3개</a></li>  
                         <li><a href="https://github.com/springframework-sprout/spring-core-technology">백기선, 스프링 핵심 원리</a></li> 
-                        <li><a href="https://www.inflearn.com/certificate/161066-325969-2073109">김영한, 스프링 핵심 원리 - 기본편</a></li>  
+                        <li><a href="https://www.inflearn.com/certificate/161066-325969-2073109">김영한, 스프링 핵심 원리 - 기본편</a></li>
+                        <li><a href="https://www.inflearn.com/certificate/161066-325969-2073109">김영한, 스프링 핵심 원리 - 고급편</a></li>  
                         <li><a href="https://github.com/springframework-sprout/JPA-Programming">김영한, 자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>  
                         <li><a href="https://github.com/springframework-sprout/spring-mvc-1">김영한, 스프링 MVC 1편</a></li>  
                         <li><a href="https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84/dashboard">QueryDSL</a></li>  
                         <li><a href="https://github.com/next-step/java-bowling/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed">Next Step - TDD, Clean Code with Java 11기</a></li> 
                         <li><a href="https://edu.nextstep.camp/s/OlNAJpr3">Next Step - 인프라 공방 2기</a></li>
-                        <li><a href="https://github.com/next-step/git-recipe">Next Step - 블랙커피 Level ZERO git 사용법 배우기</a></li>             
+                        <li><a href="https://github.com/next-step/git-recipe">Next Step - 블랙커피 Level ZERO git 사용법 배우기</a></li>  
+                        <li><a href="https://edu.nextstep.camp/s/iuYIJ06v">Next Step - 이펙티브 코틀린 with TDD 3기</a></li>             
                         <li><a href="https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC">SSAFY CS 스터디</a></li>     
                         <li><a href="https://github.com/ssafy-5th-gwangju/tdd-racingcar-java">SSAFY TDD 스터디</a></li>
                         <li><a href="https://github.com/springframework-sprout/ddd-start">DDD-Start</a></li>
+                        <li><a href="https://github.com/springframework-sprout/kotlin-in-action">Kotlin-In-Action</a></li>
             </ul>            
 </div>
 </details>
