@@ -55,14 +55,17 @@
                         <li><a href="https://www.inflearn.com/certificate/161066-325969-2073109">김영한, 스프링 핵심 원리 - 기본편</a></li>
                         <li><a href="https://www.inflearn.com/certificate/161066-325969-2073109">김영한, 스프링 핵심 원리 - 고급편</a></li>  
                         <li><a href="https://github.com/springframework-sprout/JPA-Programming">김영한, 자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>  
+                        <li><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1/dashboard">김영한, 자바 ORM 표준 JPA 프로그래밍 - 실전 1편</a></li>  
+                        <li><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94/dashboard">김영한, 자바 ORM 표준 JPA 프로그래밍 - 실전 2편</a></li> 
                         <li><a href="https://github.com/springframework-sprout/spring-mvc-1">김영한, 스프링 MVC 1편</a></li>  
-                        <li><a href="https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84/dashboard">QueryDSL</a></li>  
+                        <li><a href="https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84/dashboard">김영한, QueryDSL</a></li>  
+                        <li><a href="https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/dashboard">김영한, 모든 개발자를 위한 HTTP 웹 기본 지식</a></li>  
                         <li><a href="https://github.com/next-step/java-bowling/pulls?q=is%3Apr+author%3Akwj1270+is%3Aclosed">Next Step - TDD, Clean Code with Java 11기</a></li> 
                         <li><a href="https://edu.nextstep.camp/s/OlNAJpr3">Next Step - 인프라 공방 2기</a></li>
                         <li><a href="https://github.com/next-step/git-recipe">Next Step - 블랙커피 Level ZERO git 사용법 배우기</a></li>  
-                        <li><a href="https://edu.nextstep.camp/s/iuYIJ06v">Next Step - 이펙티브 코틀린 with TDD 3기</a></li>             
-                        <li><a href="https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC">SSAFY CS 스터디</a></li>     
-                        <li><a href="https://github.com/ssafy-5th-gwangju/tdd-racingcar-java">SSAFY TDD 스터디</a></li>
+                        <li><a href="https://edu.nextstep.camp/s/iuYIJ06v">Next Step - Effective Kotlin with TDD 3기</a></li>             
+                        <li><a href="https://github.com/SSAFY5thGwangJu4C/CS_IS_ESC">SSAFY - CS 스터디</a></li>     
+                        <li><a href="https://github.com/ssafy-5th-gwangju/tdd-racingcar-java">SSAFY - TDD 스터디</a></li>
                         <li><a href="https://github.com/springframework-sprout/ddd-start">DDD-Start</a></li>
                         <li><a href="https://github.com/springframework-sprout/kotlin-in-action">Kotlin-In-Action</a></li>
             </ul>            
