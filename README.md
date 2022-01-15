@@ -86,8 +86,12 @@
 * Acitivity - Samsung SoftWare Academy 5th in GwangJu   
 * group - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)     
 * group - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
+* study - [♻️ NextStep-ATDD](https://edu.nextstep.camp/s/ZlcCZQ2Y)     
 * study - [📝 Kotlin](https://github.com/springframework-sprout/kotlin-in-action)     
 * study - [📝 Kafka](https://github.com/springframework-sprout/kafka)     
-* study - [📝 CS](https://github.com/Ung-ae-Baby-Developers/BabyCS)     
+* study - [📝 Clean Architecture](https://github.com/sosohan-study/clean-architecture-study)     
+* study - [📝 Reactive Programming](https://github.com/springframework-sprout/reactive-spring)     
+
+
 
 ![](https://github-profile-trophy.vercel.app/?username=kwj1270&theme=flat&no-frame=true&margin-w=30)
