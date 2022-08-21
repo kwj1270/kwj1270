@@ -79,7 +79,7 @@
                         <li><a href="https://github.com/backend-sprout/kafka">Kafka</a></li>      
                         <li><a href="https://github.com/backend-sprout/prometheus-grafana">Prometheus & Grafana</a></li>      
                         <li><a href="https://github.com/backend-sprout/galeracluster">Galera Cluster</a></li>      
-                        <li><a href="https://github.com/sosohan-study/logging-system-poc">Elastic Stack</a></li>      
+                        <li><a href="https://github.com/sosohan-study/logging-system-poc">Elastic Stack</a></li>       
             </ul>            
 </div>
 </details>
@@ -95,12 +95,9 @@
 </details>
 
 ### 🏃‍♂️ Doing 
-* Acitivity - Samsung SoftWare Academy 5th in GwangJu   
+* Acitivity - EstSoft Backend Programmer, [TeamUp](https://tmup.com/)
 * group - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)     
 * group - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
-* study - [♻️ NextStep-ATDD](https://edu.nextstep.camp/s/ZlcCZQ2Y)     
-* study - [📝 Kotlin](https://github.com/springframework-sprout/kotlin-in-action)     
-* study - [📝 Kafka](https://github.com/springframework-sprout/kafka)     
 * study - [📝 Clean Architecture](https://github.com/sosohan-study/clean-architecture-study)     
 * study - [📝 Reactive Programming](https://github.com/springframework-sprout/reactive-spring)     
 
