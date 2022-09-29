@@ -100,7 +100,8 @@
 * group - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)     
 * study - [📝 Clean Architecture](https://github.com/sosohan-study/clean-architecture-study)     
 * study - [📝 Reactive Programming](https://github.com/springframework-sprout/reactive-spring)     
-
+* study - [📝 RealMySQL](https://github.com/backend-sprout/real-my-sql)     
+* study - [📝 Kafka 2회차](https://github.com/backend-sprout/kafka)     
 
 
 ![](https://github-profile-trophy.vercel.app/?username=kwj1270&theme=flat&no-frame=true&margin-w=30)
