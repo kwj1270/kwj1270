@@ -4,9 +4,6 @@
 
 안녕하세요 **BackEnd 개발**에 관심을 갖고 있는 🌱 새싹 개발자 입니다.                                  
        
- 
-[📝 Resume](https://kwj1270.oopy.io/cec19eb3-e339-4e81-8256-0f43a061df67)   
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 
