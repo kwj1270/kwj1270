@@ -93,7 +93,7 @@
 </details>
 
 ### 🏃‍♂️ Doing 
-* Acitivity - EstSoft Backend Programmer, [TeamUp](https://tmup.com/)  
+* Acitivity - EstSoft Software Engineer, [TeamUp](https://tmup.com/)  
 * group - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)       
 * group - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)       
 * study - [📝 Clean Architecture](https://github.com/sosohan-study/clean-architecture-study)       
