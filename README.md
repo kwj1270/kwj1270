@@ -1,13 +1,22 @@
 
-### 👋 Hi there    
+## 👋 Hi there    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-이스트소프트에서 그룹웨어 메신저 서비스를 개발하고 있는 1년 차 백엔드 개발자입니다.   
-특정 기술이나 도구에 의존하기보다는 동작 방식과 핵심 원리를 학습하여  
-문제를 해결하는데 가장 적합한 방법을 도출하고자 노력하고 있습니다.   
-최근에는 Redis 와 MaraDB 그리고 분산 시스템에 관심이 있습니다.  
-  
-### 💻 Activity 
+이스트소프트에서 그룹웨어 메신저 서비스를 개발하고 있는 1년 차 소프트웨어 개발자입니다.  
+**'노력은 배신하지 않는다'** 라는 인생관을 토대로 좋은 개발자가 되기 위한 학습을 멈추지 않고 있으며   
+최근에는 Redis 와 MaraDB 그리고 분산 시스템에 관심을 가지며 학습하고 있습니다.    
+
+
+**기본 :**     
+특정 기술이나 도구에 의존하기 보다는    
+**동작 방식과 원리**를 학습하여 문제 해결에 가장 적합한 방법을 찾고자 노력하고 있습니다.  
+
+**기록 :**  
+‘사람은 죽으면 이름을 남기고 범은 죽으면 가죽을 남긴다’는 말에  
+**’개발자는 문서를 남긴다’** 는 언어 유희를 실천하고자 노력하고 있습니다.      
+
+
+## 💻 Activity 
 <details>
 <summary>👨‍💻 2019</summary>
 <div markdown="1"> 
@@ -102,7 +111,7 @@
 </div>
 </details>
 
-### 🏃‍♂️ Doing 
+## 🏃‍♂️ Doing 
 * Acitivity - EstSoft Software Engineer, [TeamUp](https://tmup.com/)  
 * Group - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)       
 * Group - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)       
