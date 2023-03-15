@@ -3,8 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 이스트소프트에서 그룹웨어 메신저 서비스를 개발하고 있는 1년 차 소프트웨어 개발자입니다.  
-**'노력은 배신하지 않는다'** 라는 인생관을 토대로 좋은 개발자가 되기 위한 학습을 멈추지 않고 있으며   
-최근에는 Redis 와 MaraDB 그리고 분산 시스템에 관심을 가지며 학습하고 있습니다.     
 
 
 ## 💻 Activity 
