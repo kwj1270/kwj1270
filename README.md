@@ -104,7 +104,7 @@
 * Acitivity - EstSoft Software Engineer, [TeamUp](https://tmup.com/)  
 * Group - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)       
 * Group - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)       
-* SideProject - [THE-MSA-LAB]([https://github.com/guacamole-tf](https://github.com/the-developer-lab/the-msa-lab))
+* SideProject - [THE-MSA-LAB](https://github.com/the-developer-lab/the-msa-lab)
 * Study - 📝 Micro Service Patterb
 * Study - 📝 RabbitMQ
 
