@@ -101,7 +101,7 @@
 </details>
 
 ## 🏃‍♂️ Doing 
-* Acitivity - EstSoft Software Engineer, [TeamUp](https://tmup.com/)  
+* Acitivity - EstSoft Software Engineer, [BeMe](https://kbeme.ai/), [TeamUp](https://tmup.com/)  
 * Group - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)       
 * Group - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)       
 * SideProject - [THE-MSA-LAB](https://github.com/the-developer-lab/the-msa-lab)
