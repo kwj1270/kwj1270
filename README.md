@@ -5,9 +5,10 @@
 * Corp
     * EstSoft Software Engineer(2022 ~ 2023) : [BeMe](https://kbeme.ai/), [TeamUp](https://tmup.com/)
     * Korbit Software Enginner(2023 ~ now) : [Korbit](https://lightning.korbit.co.kr)
-* Group - [Road-of-CODEr/stupid-week-2021](https://github.com/Road-of-CODEr/stupid-week-2021)       
-* Group - [Road-of-CODEr/we-hate-jvm](https://github.com/Road-of-CODEr/we-hate-jvm)
-* Group - [SIPE](https://github.com/sipe-team)  
-
+* Group - [SIPE](https://github.com/sipe-team), [게으른 개발자 모임](https://github.com/lazyconf-dev)  
+* Activity
+    * [SIPE 사담콘 - Java I/O 여정기](https://festa.io/events/4230)
+    * [게으른 개발자 컨퍼런스 - JDK21 Structured Concurrency](https://festa.io/events/4588)
+    * Comming Soon..?
    
 ![](https://github-profile-trophy.vercel.app/?username=kwj1270&theme=flat&no-frame=true&margin-w=30)
