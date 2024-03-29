@@ -8,7 +8,9 @@
 * Group - [SIPE](https://github.com/sipe-team), [게으른 개발자 모임](https://github.com/lazyconf-dev)  
 * Activity
     * [SIPE 사담콘 - Java I/O 여정기](https://festa.io/events/4230)
-    * [게으른 개발자 컨퍼런스 - JDK21 Structured Concurrency](https://festa.io/events/4588)
+    * [게으른 개발자 컨퍼런스 - JDK Structured Concurrency](https://festa.io/events/4588)
     * Comming Soon..?
+* Interview
+    * [엘리트 축구 선수의 길을 걷던 중 부상을 만나 다른 길을 택하기 까지!](https://blog.naver.com/discoveryj/221653909348)
    
 ![](https://github-profile-trophy.vercel.app/?username=kwj1270&theme=flat&no-frame=true&margin-w=30)
