@@ -9,7 +9,7 @@
 * Activity
     * [SIPE 사담콘 - Java I/O 여정기](https://festa.io/events/4230)
     * [게으른 개발자 컨퍼런스 - JDK Structured Concurrency](https://festa.io/events/4588)
-    * Comming Soon..?
+    * [SIPE 사담콘 2회차 - 내가 깨달은 것들](https://festa.io/events/5084)
 * Interview
     * [엘리트 축구 선수의 길을 걷던 중 부상을 만나 다른 길을 택하기 까지!](https://blog.naver.com/discoveryj/221653909348)
    
