@@ -4,7 +4,9 @@
  
 * Corp
     * EstSoft Software Engineer(2022 ~ 2023) : BeMe(서비스 종료), TeamUp(서비스 종료)
-    * Korbit Software Enginner(2023 ~ now) : [Korbit](https://lightning.korbit.co.kr)
+    * Korbit Software Enginner(2023 ~ 2024.10) : [Korbit](https://lightning.korbit.co.kr)
+    * KakaoBank Software Enginner(2024.10 ~ ing) : [KakaoBank](https://m.kakaobank.com/)
+     
 * Group - [SIPE](https://github.com/sipe-team), [게으른 개발자 모임](https://github.com/lazyconf-dev)  
 * Activity
     * [SIPE 사담콘 - Java I/O 여정기(Java I/O -> NIO -> AIO 발전 역사)](https://festa.io/events/4230)
