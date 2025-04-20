@@ -1,6 +1,5 @@
 
 ## 👋 Hi there    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D89C8&title_bg=%23D5D0D0&icon=java.svg&icon_color=%2338469C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
  
 * Corp
     * EstSoft Software Engineer(2022 ~ 2023) : BeMe(서비스 종료), TeamUp(서비스 종료)
